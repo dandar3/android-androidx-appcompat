@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-appcompat/tags/1.0.0,androidx-appcompat,d00bd1155015001a1ace919893d18af2;https://github.com/dandar3/android-androidx-appcompat;https://github.com/dandar3/android-androidx-appcompat;branches;tags;trunk;true;351df5ef-62fd-fcb7-c31c-ce57b7db7bff;https://github.com/dandar3/android-androidx-appcompat;;false;;;0"/>
+</provider>
+</psf>
